@@ -8,8 +8,11 @@ The up and down arrow buttons can be used to change the rate of caffeine intake.
 
 Tested on Chrome 77.
 
+(If you are too lazy to load this into your own browser, check out the demo video.  Although, for some reason it is very jerky.  The actual simulation runs much more smoothly.)
+
 Credits: 
 
 three.js graphics library: https://threejs.org/
+
 structure of caffeine molecule: https://en.wikipedia.org/wiki/Caffeine
 
